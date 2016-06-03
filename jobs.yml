@@ -1,0 +1,7 @@
+jobs: 
+- job:
+  name :  api
+  type: manifest
+  steps:
+    - GET resource1 
+  
